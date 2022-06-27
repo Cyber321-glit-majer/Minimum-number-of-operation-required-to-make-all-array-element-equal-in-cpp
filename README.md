@@ -1,0 +1,1 @@
+# Minimum-number-of-operation-required-to-make-all-array-element-equal-in-cpp
